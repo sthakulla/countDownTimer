@@ -20,14 +20,14 @@
     display: block;
 }
 
-/* @media (max-width: 600px) {
+@media (max-width: 600px) {
     #timer {
         font-size: 2rem;
     }
     .timer-unit {
         font-size: 1rem;
     }
-} */
+}
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
